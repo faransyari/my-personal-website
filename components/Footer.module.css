@@ -1,0 +1,41 @@
+.footer {
+    padding: 20px;
+    background-color: #000000;
+    color: #ecf0f1;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #4797ff;
+  }
+  
+  .contactInfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .contactDetail {
+    font-size: 1.2em;
+    margin: 0 15px;
+  }
+  
+  .contactLink {
+    color: #4797ff;
+    text-decoration: none;
+  }
+  
+  .contactLink:hover {
+    text-decoration: underline;
+  }
+  
