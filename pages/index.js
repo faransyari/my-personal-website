@@ -30,7 +30,6 @@ export default function Home() {
           <h1 style={{ color: '#4797ff' }}>About Me</h1>
           <p>An information technology student specializing in software information systems with a passion for web development (frontend and backend), mobile development, and data science.</p>
           <h1>Skills & Interests</h1>
-          <
           <ul>
             <li>Python, Java, Javascript, PostgreSQL, React Native, Node.js, Springboot, Flutter, HTML, Django, CSS, Django REST Framework, Amazon Web Services (AWS), PHP, ReactJS, Dart, PHP</li>
             <li>English (Fluent), Indonesian (Native)</li>
